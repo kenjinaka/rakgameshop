@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ws\\rak-prod\\RakGameShopAPI\\RakGameShopAPI\\RakGameShopAPI.csproj": {}
+    "C:\\ws\\rak-prod\\RakAPI\\RakGameShopAPI.csproj": {}
   },
   "projects": {
-    "C:\\ws\\rak-prod\\RakGameShopAPI\\RakGameShopAPI\\RakGameShopAPI.csproj": {
+    "C:\\ws\\rak-prod\\RakAPI\\RakGameShopAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ws\\rak-prod\\RakGameShopAPI\\RakGameShopAPI\\RakGameShopAPI.csproj",
+        "projectUniqueName": "C:\\ws\\rak-prod\\RakAPI\\RakGameShopAPI.csproj",
         "projectName": "RakGameShopAPI",
-        "projectPath": "C:\\ws\\rak-prod\\RakGameShopAPI\\RakGameShopAPI\\RakGameShopAPI.csproj",
+        "projectPath": "C:\\ws\\rak-prod\\RakAPI\\RakGameShopAPI.csproj",
         "packagesPath": "C:\\Users\\Kenji\\.nuget\\packages\\",
-        "outputPath": "C:\\ws\\rak-prod\\RakGameShopAPI\\RakGameShopAPI\\obj\\",
+        "outputPath": "C:\\ws\\rak-prod\\RakAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

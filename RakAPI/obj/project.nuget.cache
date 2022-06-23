@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P9uMcAeUOAcu3TG7CjmlHSzN9YgPq0dHq4Fb6Sks/kmwJEmd5gkRBDK9rbHupxqLTc073u34s6a5Gkfv22IVpA==",
+  "dgSpecHash": "C0Eb7BfH8eE1Hf50mSORKEoyufcfb7zCQXhCkNTCvC1yqLUKps7lA4hRZv6kjrPYtnoFOtR+CbemjKNHFaSWwg==",
   "success": true,
-  "projectFilePath": "C:\\ws\\rak-prod\\RakGameShopAPI\\RakGameShopAPI\\RakGameShopAPI.csproj",
+  "projectFilePath": "C:\\ws\\rak-prod\\RakAPI\\RakGameShopAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenji\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Kenji\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

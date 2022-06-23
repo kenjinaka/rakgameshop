@@ -7,10 +7,6 @@ services:
     image: rakgameshopapi
     build:
       context: .
-      dockerfile: RakGameShopAPI/RakGameShopAPI/Dockerfile
-    ports:
-      - 5000:5000
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
+      dockerfile: RakAPI/Dockerfile
     volumes:
       - ~/.vsdbg:/remote_debugger:rw
